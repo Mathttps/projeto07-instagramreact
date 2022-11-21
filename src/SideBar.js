@@ -11,7 +11,7 @@ export default function SideBar() {
                 Hashtags • Idioma
             </div>
             <div class="copyright">
-                © 2021 INSTAGRAM DO FACEBOOK
+                © 2022 INSTAGRAM DO FACEBOOK
             </div>
         </div>
     )
